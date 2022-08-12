@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "servo": "*",
+        "hoverbit": "github:gomakekit/hoverbit_v2#b8be09b031a3b85783cb242a8ef15ec83490ef4d"
     },
     "files": [
         "main.blocks",
